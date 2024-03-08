@@ -10,8 +10,8 @@ export default {
 
 </script>
 <template>
-    <h2 class=" font-engplot text-[2rem] md:text-[2.6rem] text-center mt-8">Our Tour Package</h2>
-    <p class=" font-engplot text-[1.1rem] md:text-[1.3rem] md:mt-[-0.7rem] text-center">Best Tour And Travel Service Just For You</p>
+    <h2 class=" font-engplot text-[2rem] md:text-[2.6rem] text-center mt-8">Самые известные водопады</h2>
+    <p class=" font-engplot text-[1.1rem] md:text-[1.3rem] md:mt-[-0.7rem] text-center">топ 20 водопадов для ознакомления</p>
     <div class=" flex justify-center gap-4 flex-wrap w-[80%] mx-auto mt-5">
         <!-- Водопад 1 -->
         <div class="package" data-aos="zoom-in">
@@ -64,14 +64,14 @@ export default {
         <!-- Водопад 9 -->
         <div class="package" data-aos="zoom-in">
             <img src="/images/package-9.jpg" alt="">
-            <h3>Водопад Пхи Пхи Лей</h3>
-            <p>Красивый водопад на острове Пхи Пхи Лей в Таиланде, окруженный тропической природой.</p>
+            <h3>Водопад Вернал</h3>
+            <p>Вернал (англ. Vernal Fall) — большой водопад на реке Мерсед в нижней части водопада Невада в национальном парке Йосемити, США.</p>
         </div>
         <!-- Водопад 10 -->
         <div class="package" data-aos="zoom-in">
             <img src="/images/package-10.jpg" alt="">
-            <h3>Водопад Лена</h3>
-            <p>Могучий водопад на реке Лена в России, один из крупнейших в Сибири.</p>
+            <h3>Водопад Хавасу</h3>
+            <p>Водопад Хавасу (Havasu Falls) расположен на территории Гранд Каньона, в нескольких километрах от поселения Супай.</p>
         </div>
         <!-- Водопад 11 -->
         <div class="package" data-aos="zoom-in">
@@ -94,8 +94,8 @@ export default {
         <!-- Водопад 14 -->
         <div class="package" data-aos="zoom-in">
             <img src="/images/package-14.jpg" alt="">
-            <h3>Хюэльген водопад</h3>
-            <p>Самый высокий водопад в Швеции, расположенный в Национальном парке Стурен.</p>
+            <h3>Райхенбах водопад</h3>
+            <p>Райхенбах — водопад высотой около 250 метров около Майрингена (Швейцария), один из самых мощных и высоких водопадов в Альпах.</p>
         </div>
         <!-- Водопад 15 -->
         <div class="package" data-aos="zoom-in">

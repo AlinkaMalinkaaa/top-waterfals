@@ -1,6 +1,6 @@
 <template>
     <div class=" flex flex-col items-center justify-center mt-[4rem] bg-center bg-no-repeat bg-cover w-[100vw] pb-10 bg-[url('/images/bg-reason.jpg')] bg-blend-darken">
-        <h2 class=" text-center text-white text-[2.8rem] font-engplot pt-8">Why Choose Us ?</h2>
+        <h2 class=" text-center text-white text-[2.8rem] font-engplot pt-8">Почему следует изучать природу ?</h2>
         <div class=" px-3 md:px-0 md:w-[70%] flex gap-8 mx-auto mt-11">
             <div class="reason">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 mx-auto h-6">

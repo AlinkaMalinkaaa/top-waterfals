@@ -66,7 +66,7 @@ export default {
             ">
 
         <h2 class=" font-Logo text-[2rem] text-white ml-20">
-            Basic Tour
+            Waterfalls
         </h2>
 
         <ul v-show="!mobile" class=" flex justify-around w-[50%] lg:w-[40%] mr-10 uppercase text-[0.9rem] font-semibold font-engplot ">
