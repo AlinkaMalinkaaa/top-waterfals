@@ -1,7 +1,7 @@
 <template>
     <div class=" absolute flex flex-col gap-3 top-[6rem] left-3">
            
-                     <!-- Twiter -->
+                     <!-- Twitter -->
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         class=" hover:scale-110 cursor-pointer duration-150 h-5 w-5"
@@ -47,6 +47,6 @@ export default {
   mounted(){
     typer('#titler').line('Best waterfalls in the world')
   }
- h};
+ };
 
 </script>
