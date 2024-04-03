@@ -70,7 +70,7 @@ export default {
         </h2>
 
         <ul v-show="!mobile" class=" flex justify-around w-[50%] lg:w-[40%] mr-10 uppercase text-[0.9rem] font-semibold font-engplot ">
-            <li><a href="/">Home</a></li>
+            <li><a href="/public">Home</a></li>
             <li><a href="/what">Package</a></li>
             <li><router-link class="" to="/#location">Contact</router-link></li>
             <li class=" flex gap-2"> 

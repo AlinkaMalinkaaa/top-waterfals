@@ -1,11 +1,11 @@
 <script>
 
-import Hero from '@/components/Hero.vue';
-import Navbar from '@/components/Navbar.vue';
-import Packages from '@/components/Packages.vue';
-import Reason from '@/components/Reason.vue';
-import Review from '@/components/Review.vue';
-import Footer from '@/components/Footer.vue';
+import Hero from '../components/Hero.vue';
+import Navbar from '../components/Navbar.vue';
+import Packages from '../components/Packages.vue';
+import Reason from '../components/Reason.vue';
+import Review from '../components/Review.vue';
+import Footer from '../components/Footer.vue';
 
 export default {
     components: {
