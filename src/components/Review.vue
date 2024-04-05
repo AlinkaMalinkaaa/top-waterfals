@@ -8,7 +8,7 @@
 
        <blockquote class=" w-[75%]">
             <p class=" text-center font-engplot">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, quas neque possimus iure quo quasi nostrum error earum. Libero natus, consectetur reiciendis ea voluptate eligendi error! </p>
-            <p class=" text-center font-engplot font-bold text-[#fac240]">Andrea Ralim</p>
+            <p class=" text-center font-engplot font-bold text-[#fac240]">Хан Алина</p>
        </blockquote>
     </article>
 
